@@ -17,6 +17,7 @@ I like to build things, break them, and figure out why they exploded.
 - Core Java & OOP principles
 - Spring Boot + REST APIs
 - Containerizing with Docker
+- JavaScript for frontend basics
 
 ### ☕ Fun fact
 *Insert fun/dev joke here once caffeine kicks in*
