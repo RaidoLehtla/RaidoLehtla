@@ -23,4 +23,4 @@ I like to build things, break them, and figure out why they exploded.
 ---
 
 ### 📫 Connect with me  
-[LinkedIn – Raido Lehtla](https://www.linkedin.com/in/raido-lehtla/)
+[LinkedIn – Raido Lehtla](https://www.linkedin.com/in/raido-lehtla-0a6739221/)
