@@ -16,6 +16,7 @@ I like to build things, break them, and figure out why they exploded.
 ### 📚 Currently Learning
 - Core Java & OOP principles
 - Spring Boot + REST APIs
+- PostgreSQL and basic database design
 - Containerizing with Docker
 - JavaScript for frontend basics
 
